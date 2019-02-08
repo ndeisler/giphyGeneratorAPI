@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  background: black;
+  height: 100vh;
+  
 }
 
 .App-logo {
@@ -22,6 +25,8 @@
   color: #61dafb;
 }
 
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -30,3 +35,24 @@
     transform: rotate(360deg);
   }
 }
+
+.main h2 {
+  padding: 10px;
+  margin: 10px;
+  color: white;
+
+}
+.main input {
+  padding: 10px;
+  margin: 10px;
+  height: 5px;
+}
+
+.main {
+  height: 100%;
+  background: black;
+
+}
+
+
+
